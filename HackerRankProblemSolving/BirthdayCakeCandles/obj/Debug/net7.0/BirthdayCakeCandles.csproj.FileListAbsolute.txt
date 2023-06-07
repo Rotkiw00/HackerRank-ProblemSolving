@@ -1,0 +1,15 @@
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/bin/Debug/net7.0/BirthdayCakeCandles
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/bin/Debug/net7.0/BirthdayCakeCandles.deps.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/bin/Debug/net7.0/BirthdayCakeCandles.runtimeconfig.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/bin/Debug/net7.0/BirthdayCakeCandles.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/bin/Debug/net7.0/BirthdayCakeCandles.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.csproj.AssemblyReference.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.AssemblyInfoInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.AssemblyInfo.cs
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/refint/BirthdayCakeCandles.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/BirthdayCakeCandles.genruntimeconfig.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BirthdayCakeCandles/obj/Debug/net7.0/ref/BirthdayCakeCandles.dll

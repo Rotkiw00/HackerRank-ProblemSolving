@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{1E87540E-E0B4-48AA-A63D-3A37779D97B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.SubarrayDivision FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BirthdayCakeCandles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MigratoryBirds FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AppleAndOrange FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BreakingTheRecords FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SolveMeFirst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.VeryBigSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SalesByMatch FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TimeConversion FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MinMaxSum FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DesignerPDFViewer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DayOfProgrammer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DivisibleSumPairs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SimpleArraySum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Staircase FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PlusMinus FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CompareTriplets FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GradingStudents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CatsAndMouse FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HackerRankProblemSolving" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NumberLineJumps FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CountingValleys FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DiagonalDifference FirstBuild="True" />
+</Properties>

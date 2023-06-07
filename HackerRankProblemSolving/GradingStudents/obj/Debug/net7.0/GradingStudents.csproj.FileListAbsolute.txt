@@ -1,0 +1,15 @@
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/bin/Debug/net7.0/GradingStudents
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/bin/Debug/net7.0/GradingStudents.deps.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/bin/Debug/net7.0/GradingStudents.runtimeconfig.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/bin/Debug/net7.0/GradingStudents.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/bin/Debug/net7.0/GradingStudents.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.csproj.AssemblyReference.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.AssemblyInfoInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.AssemblyInfo.cs
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.csproj.CoreCompileInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/refint/GradingStudents.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/GradingStudents.genruntimeconfig.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/Debug/net7.0/ref/GradingStudents.dll
