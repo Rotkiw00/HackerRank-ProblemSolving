@@ -24,7 +24,10 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.GradingStudents PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.CatsAndMouse FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppleAndOrange/Program.cs">
+    <Files>
+      <File FileName="AppleAndOrange/Program.cs" Line="14" Column="32" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
