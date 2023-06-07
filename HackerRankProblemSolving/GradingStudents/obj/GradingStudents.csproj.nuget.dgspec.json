@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj": {}
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj": {}
   },
   "projects": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj": {
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj",
+        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj",
         "projectName": "GradingStudents",
-        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj",
+        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/GradingStudents/GradingStudents.csproj",
         "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/GradingStudents/obj/",
+        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/GradingStudents/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

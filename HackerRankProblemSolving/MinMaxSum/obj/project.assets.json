@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/MinMaxSum/MinMaxSum.csproj",
+      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/MinMaxSum/MinMaxSum.csproj",
       "projectName": "MinMaxSum",
-      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/MinMaxSum/MinMaxSum.csproj",
+      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/MinMaxSum/MinMaxSum.csproj",
       "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/MinMaxSum/obj/",
+      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/MinMaxSum/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj": {}
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj": {}
   },
   "projects": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj": {
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj",
+        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj",
         "projectName": "SolveMeFirst",
-        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj",
+        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/HackerRankProblemSolving/SolveMeFirst.csproj",
         "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/obj/",
+        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/HackerRankProblemSolving/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

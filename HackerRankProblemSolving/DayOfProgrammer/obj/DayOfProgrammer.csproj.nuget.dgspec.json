@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj": {}
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj": {}
   },
   "projects": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj": {
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj",
+        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj",
         "projectName": "DayOfProgrammer",
-        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj",
+        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DayOfProgrammer/DayOfProgrammer.csproj",
         "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DayOfProgrammer/obj/",
+        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DayOfProgrammer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

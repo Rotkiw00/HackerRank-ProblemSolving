@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/PlusMinus/PlusMinus.csproj",
+      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/PlusMinus/PlusMinus.csproj",
       "projectName": "PlusMinus",
-      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/PlusMinus/PlusMinus.csproj",
+      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/PlusMinus/PlusMinus.csproj",
       "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/PlusMinus/obj/",
+      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/PlusMinus/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

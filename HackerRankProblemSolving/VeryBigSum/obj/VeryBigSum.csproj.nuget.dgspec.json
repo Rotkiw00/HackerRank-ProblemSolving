@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj": {}
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj": {}
   },
   "projects": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj": {
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj",
+        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj",
         "projectName": "VeryBigSum",
-        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj",
+        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/VeryBigSum/VeryBigSum.csproj",
         "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/VeryBigSum/obj/",
+        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/VeryBigSum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

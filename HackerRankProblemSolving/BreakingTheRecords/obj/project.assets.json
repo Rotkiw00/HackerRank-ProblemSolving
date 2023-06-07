@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BreakingTheRecords/BreakingTheRecords.csproj",
+      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BreakingTheRecords/BreakingTheRecords.csproj",
       "projectName": "BreakingTheRecords",
-      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BreakingTheRecords/BreakingTheRecords.csproj",
+      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BreakingTheRecords/BreakingTheRecords.csproj",
       "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/BreakingTheRecords/obj/",
+      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BreakingTheRecords/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

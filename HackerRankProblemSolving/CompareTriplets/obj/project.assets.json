@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/CompareTriplets/CompareTriplets.csproj",
+      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/CompareTriplets/CompareTriplets.csproj",
       "projectName": "CompareTriplets",
-      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/CompareTriplets/CompareTriplets.csproj",
+      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/CompareTriplets/CompareTriplets.csproj",
       "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/CompareTriplets/obj/",
+      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/CompareTriplets/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

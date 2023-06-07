@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/Staircase/Staircase.csproj",
+      "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/Staircase/Staircase.csproj",
       "projectName": "Staircase",
-      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/Staircase/Staircase.csproj",
+      "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/Staircase/Staircase.csproj",
       "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/Staircase/obj/",
+      "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/Staircase/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"

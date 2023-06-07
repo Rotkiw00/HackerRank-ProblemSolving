@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj": {}
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj": {}
   },
   "projects": {
-    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj": {
+    "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj",
+        "projectUniqueName": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj",
         "projectName": "DivisibleSumPairs",
-        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj",
+        "projectPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DivisibleSumPairs/DivisibleSumPairs.csproj",
         "packagesPath": "/Users/wiktorkalaga/.nuget/packages/",
-        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/DivisibleSumPairs/obj/",
+        "outputPath": "/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/DivisibleSumPairs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/wiktorkalaga/.nuget/NuGet/NuGet.Config"
