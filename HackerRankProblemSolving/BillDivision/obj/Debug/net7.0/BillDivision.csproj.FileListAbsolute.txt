@@ -1,0 +1,15 @@
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/bin/Debug/net7.0/BillDivision
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/bin/Debug/net7.0/BillDivision.deps.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/bin/Debug/net7.0/BillDivision.runtimeconfig.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/bin/Debug/net7.0/BillDivision.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/bin/Debug/net7.0/BillDivision.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.csproj.AssemblyReference.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.AssemblyInfoInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.AssemblyInfo.cs
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.csproj.CoreCompileInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/refint/BillDivision.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/BillDivision.genruntimeconfig.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/BillDivision/obj/Debug/net7.0/ref/BillDivision.dll
