@@ -28,5 +28,6 @@ Below are links to the projects with problem explanation and obviously solution 
 |20.          | Easy             |[Sales by Match](https://github.com/Rotkiw00/HackerRank-ProblemSolving/tree/95ec50caca5bdd08a98439d250d3cda7eb24c25e/HackerRankProblemSolving/SalesByMatch)|
 |21.          | Medium             |[Counting Valleys](https://github.com/Rotkiw00/HackerRank-ProblemSolving/tree/95ec50caca5bdd08a98439d250d3cda7eb24c25e/HackerRankProblemSolving/CountingValleys)|
 |22.          | Medium/Hard             |[Designer PDF Viewr](https://github.com/Rotkiw00/HackerRank-ProblemSolving/tree/95ec50caca5bdd08a98439d250d3cda7eb24c25e/HackerRankProblemSolving/DesignerPDFViewer)|
+|23.         |Easy     |[Bill Division](https://github.com/Rotkiw00/HackerRank-ProblemSolving/tree/a29efa6b22ca8b2b761cdc0a809c3d404ae98a64/HackerRankProblemSolving/BillDivision)|
 
 ### Acknowledgment: [HackerRank](https://www.hackerrank.com/dashboard)

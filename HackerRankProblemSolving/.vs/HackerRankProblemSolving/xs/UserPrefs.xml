@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{1E87540E-E0B4-48AA-A63D-3A37779D97B2}|Default">
+﻿<Properties StartupConfiguration="{F02B4A28-F84A-47AC-B9BC-D474D326BB7E}|Default">
   <MonoDevelop.Ide.ItemProperties.BirthdayCakeCandles PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.NumberLineJumps FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.PlusMinus FirstBuild="True" />
@@ -9,7 +9,9 @@
   <MonoDevelop.Ide.ItemProperties.AppleAndOrange FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.SubarrayDivision FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.BreakingTheRecords FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.CountingValleys FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.DivisibleSumPairs FirstBuild="True" />
@@ -17,14 +19,18 @@
   <MonoDevelop.Ide.ItemProperties.CompareTriplets FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.TimeConversion FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AppleAndOrange/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BillDivision/Program.cs">
     <Files>
-      <File FileName="AppleAndOrange/Program.cs" Line="14" Column="32" />
+      <File FileName="BillDivision/Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HackerRankProblemSolving" expanded="True" />
+          <Node name="HackerRankProblemSolving" expanded="True">
+            <Node name="BillDivision" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -34,7 +40,7 @@
   <MonoDevelop.Ide.ItemProperties.DiagonalDifference FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Staircase FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.DayOfProgrammer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BillDivision FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BillDivision PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MigratoryBirds FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.MinMaxSum FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.SimpleArraySum FirstBuild="True" />
