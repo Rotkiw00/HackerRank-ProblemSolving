@@ -1,0 +1,15 @@
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/bin/Debug/net7.0/ElectronicsShop
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/bin/Debug/net7.0/ElectronicsShop.deps.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/bin/Debug/net7.0/ElectronicsShop.runtimeconfig.json
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/bin/Debug/net7.0/ElectronicsShop.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/bin/Debug/net7.0/ElectronicsShop.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.csproj.AssemblyReference.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.AssemblyInfoInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.AssemblyInfo.cs
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.csproj.CoreCompileInputs.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/refint/ElectronicsShop.dll
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.pdb
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ElectronicsShop.genruntimeconfig.cache
+/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ElectronicsShop/obj/Debug/net7.0/ref/ElectronicsShop.dll

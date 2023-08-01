@@ -49,6 +49,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignerPDFViewer", "Design
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillDivision", "BillDivision\BillDivision.csproj", "{F02B4A28-F84A-47AC-B9BC-D474D326BB7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HurdleRace", "HurdleRace\HurdleRace.csproj", "{391200AF-1090-44B7-80C8-B8D33A6A5BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElectronicsShop", "ElectronicsShop\ElectronicsShop.csproj", "{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +151,14 @@ Global
 		{F02B4A28-F84A-47AC-B9BC-D474D326BB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F02B4A28-F84A-47AC-B9BC-D474D326BB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F02B4A28-F84A-47AC-B9BC-D474D326BB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391200AF-1090-44B7-80C8-B8D33A6A5BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391200AF-1090-44B7-80C8-B8D33A6A5BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391200AF-1090-44B7-80C8-B8D33A6A5BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391200AF-1090-44B7-80C8-B8D33A6A5BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
