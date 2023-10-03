@@ -1,44 +1,47 @@
-﻿<Properties StartupConfiguration="{F02B4A28-F84A-47AC-B9BC-D474D326BB7E}|Default">
-  <MonoDevelop.Ide.ItemProperties.BreakingTheRecords FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BirthdayCakeCandles PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BirthdayCakeCandles PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DayOfProgrammer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SubarrayDivision FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClimbingTheLeaderboard FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.GradingStudents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MigratoryBirds FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.NumberLineJumps FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Staircase FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TimeConversion FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SalesByMatch FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.SolveMeFirst PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PlusMinus FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ElectronicsShop/Program.cs">
+    <Files>
+      <File FileName="ElectronicsShop/Program.cs" Line="14" Column="45" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HackerRankProblemSolving" expanded="True">
-            <Node name="HurdleRace" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="ElectronicsShop" expanded="True" />
+            <Node name="HurdleRace" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Staircase FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.AppleAndOrange FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CatsAndMouse FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.BillDivision PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.DivisibleSumPairs FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SolveMeFirst PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.MinMaxSum FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.DayOfProgrammer FirstBuild="True" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.GradingStudents PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CountingValleys FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.HurdleRace FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ElectronicsShop FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.MigratoryBirds FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.DesignerPDFViewer FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.VeryBigSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BreakingTheRecords FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CompareTriplets FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ElectronicsShop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MinMaxSum FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DivisibleSumPairs FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.AppleAndOrange FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.SimpleArraySum FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.DiagonalDifference FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.PlusMinus FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.NumberLineJumps FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SubarrayDivision FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.TimeConversion FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.DesignerPDFViewer FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CompareTriplets FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.VeryBigSum FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.CountingValleys FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.SalesByMatch FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.BillDivision PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
