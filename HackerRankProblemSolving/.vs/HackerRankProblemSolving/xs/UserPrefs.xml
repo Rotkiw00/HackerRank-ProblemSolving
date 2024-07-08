@@ -1,9 +1,9 @@
-﻿<Properties StartupConfiguration="{80817D56-F90B-4C7D-97F4-3F753B1BB8F2}|Default">
+﻿<Properties StartupConfiguration="{6A1D94FD-7026-4E07-B7C7-A40DF7FD6E32}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.BirthdayCakeCandles PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.DayOfProgrammer FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.SubarrayDivision FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.ClimbingTheLeaderboard FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ClimbingTheLeaderboard PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.GradingStudents PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MigratoryBirds FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.NumberLineJumps FirstBuild="True" />
@@ -14,16 +14,15 @@
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.PlusMinus FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ElectronicsShop/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClimbingTheLeaderboard/Program.cs">
     <Files>
-      <File FileName="ElectronicsShop/Program.cs" Line="14" Column="45" />
+      <File FileName="ClimbingTheLeaderboard/Program.cs" Line="69" Column="41" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HackerRankProblemSolving" expanded="True">
-            <Node name="ElectronicsShop" expanded="True" />
-            <Node name="HurdleRace" expanded="True" />
+            <Node name="ClimbingTheLeaderboard" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -32,7 +31,11 @@
   <MonoDevelop.Ide.ItemProperties.CatsAndMouse FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.CountingValleys FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.HurdleRace FirstBuild="True" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/wiktorkalaga/Documents/Projects VisualStudio/HackerRankProblemSolving/HackerRankProblemSolving/ClimbingTheLeaderboard/Program.cs" relfile="ClimbingTheLeaderboard/Program.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.DesignerPDFViewer FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.VeryBigSum FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.BreakingTheRecords FirstBuild="True" />
