@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HurdleRace", "HurdleRace\Hu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VeryBigSum", "VeryBigSum\VeryBigSum.csproj", "{1D41BE93-F4CA-46F4-B1D1-C3621539FD32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestNearestHighest", "SmallestNearestHighest\SmallestNearestHighest.csproj", "{C88F46F7-A8ED-4C90-93E1-F3B74CFDFD87}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{1D41BE93-F4CA-46F4-B1D1-C3621539FD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D41BE93-F4CA-46F4-B1D1-C3621539FD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D41BE93-F4CA-46F4-B1D1-C3621539FD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88F46F7-A8ED-4C90-93E1-F3B74CFDFD87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88F46F7-A8ED-4C90-93E1-F3B74CFDFD87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88F46F7-A8ED-4C90-93E1-F3B74CFDFD87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88F46F7-A8ED-4C90-93E1-F3B74CFDFD87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -30,5 +30,6 @@ Below are links to the projects with problem explanation and obviously solution 
 |22.          | Medium/Hard             |[Designer PDF Viewr](https://github.com/Rotkiw00/HackerRank-ProblemSolving/tree/95ec50caca5bdd08a98439d250d3cda7eb24c25e/HackerRankProblemSolving/DesignerPDFViewer/Program.cs)|
 |23.         |Easy     |[Bill Division](https://github.com/Rotkiw00/HackerRank-ProblemSolving/tree/a29efa6b22ca8b2b761cdc0a809c3d404ae98a64/HackerRankProblemSolving/BillDivision/Program.cs)|
 |24.         |Medium   |[Climbing the Leaderboard](https://github.com/Rotkiw00/HackerRank-ProblemSolving/blob/35305f71bd6cfeaac2cf61425d7291256e89e68f/HackerRankProblemSolving/ClimbingTheLeaderboard/Program.cs)|
+|25.         |Medium (Task from the interview)   |[FindingNumber](https://github.com/Rotkiw00/HackerRank-ProblemSolving/blob/35305f71bd6cfeaac2cf61425d7291256e89e68f/HackerRankProblemSolving/SmallestNearestHighest/Program.cs)|
 
 ### Acknowledgment: [HackerRank](https://www.hackerrank.com/dashboard)
